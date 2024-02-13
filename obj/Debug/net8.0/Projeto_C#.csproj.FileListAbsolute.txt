@@ -1,0 +1,14 @@
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\bin\Debug\net8.0\Projeto_C#.exe
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\bin\Debug\net8.0\Projeto_C#.deps.json
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\bin\Debug\net8.0\Projeto_C#.runtimeconfig.json
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\bin\Debug\net8.0\Projeto_C#.dll
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\bin\Debug\net8.0\Projeto_C#.pdb
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\obj\Debug\net8.0\Projeto_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\obj\Debug\net8.0\Projeto_C#.AssemblyInfoInputs.cache
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\obj\Debug\net8.0\Projeto_C#.AssemblyInfo.cs
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\obj\Debug\net8.0\Projeto_C#.csproj.CoreCompileInputs.cache
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\obj\Debug\net8.0\Projeto_C#.dll
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\obj\Debug\net8.0\refint\Projeto_C#.dll
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\obj\Debug\net8.0\Projeto_C#.pdb
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\obj\Debug\net8.0\Projeto_C#.genruntimeconfig.cache
+D:\_Projetos - Visual Studio Code\_Principais Projetos\Projeto_C#\obj\Debug\net8.0\ref\Projeto_C#.dll
